@@ -124,4 +124,4 @@ Contributions are welcome! Follow these steps:
 ### License 📚
 This project is open-source.
 ### 💡 Need Help?
-If you have any questions, feel free to open an issue or reach out!
+If you have any questions, feel free to open an issue or reach out at [satyapavan30@gmail.com]!
